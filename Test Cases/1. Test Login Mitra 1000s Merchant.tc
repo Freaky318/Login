@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Test Login Mitra 1000s Merchant</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3b907b0-0dc8-4ef6-b4b4-9b36388c5d38</testCaseGuid>
+</TestCaseEntity>

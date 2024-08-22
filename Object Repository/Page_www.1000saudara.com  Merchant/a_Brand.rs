@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Brand</name>
+   <tag></tag>
+   <elementGuidId>be16dd40-c6d0-436a-b59c-bce69dc9ccd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menuBrand']/div/h4/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menuBrand > div.panel-heading > h4.panel-title > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Brand&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5926e0c3-7577-4cd7-a82f-969704a1b5b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/merchant/BrandList</value>
+      <webElementGuid>b91f8f26-da8e-4afc-ac0e-0e2a89a97f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Brand </value>
+      <webElementGuid>398ed043-7c5a-41d1-8fd3-0741f902caa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuBrand&quot;)/div[@class=&quot;panel-heading&quot;]/h4[@class=&quot;panel-title&quot;]/a[1]</value>
+      <webElementGuid>b8477b2b-230d-4353-8300-cde77d59dd32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menuBrand']/div/h4/a</value>
+      <webElementGuid>5717c611-ba8c-41c7-92ee-7379c5763cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Order - SPP'])[1]/following::a[1]</value>
+      <webElementGuid>ba29bea5-83d3-4dff-92c6-a39f6452d2f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Order'])[1]/following::a[2]</value>
+      <webElementGuid>cda32f0f-16be-4d7c-ab7d-2ee4134b3159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaksi'])[1]/preceding::a[1]</value>
+      <webElementGuid>89abdfc8-0b8d-42b5-931e-a1d9df3967e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/merchant/BrandList')]</value>
+      <webElementGuid>9fb38813-bee1-47f2-9365-6bbf1bd37f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/h4/a</value>
+      <webElementGuid>ef000498-9a46-42c1-8039-cd99a4ae2155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/merchant/BrandList' and (text() = '  Brand ' or . = '  Brand ')]</value>
+      <webElementGuid>7521466f-3593-4c07-8173-8afd3ad35225</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

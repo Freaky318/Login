@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Test Search Produk Ditemukan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87d0ee3a-8964-44a2-910a-8a43143ad8b7</testCaseGuid>
+</TestCaseEntity>

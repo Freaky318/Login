@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Klik Brand, Cari Brand, Masuk ke Halaman Brand (profil dan produk)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1abeeb3-28f6-44aa-ab12-f99a7d1c6e52</testCaseGuid>
+</TestCaseEntity>
